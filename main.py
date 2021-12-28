@@ -115,9 +115,14 @@ with open("./output/Frequency_analysis.txt", "w"): #delete any previous output f
 cv_frequencies = count_frequencies(cv_syllables)
 
 with open("./output/Frequency_analysis.txt",'a') as output_file:
+    #header
     output_file.write("Consonant-Vowel Syllables Top Frequencies\n")
+    output_file.write("| Pattern | Frequency | \n")
+    output_file.write("| -------- | ----- | \n")
+
+    #content
     for key, value in cv_frequencies.items():
-        output_file.write(" ".join(["|", str(key), "|", str(value), "\n"]) )
+        output_file.write(" ".join(["|", str(key), "|", str(value), "|", "\n"]) )
     
     output_file.write("\n")
 
@@ -131,9 +136,14 @@ macroclass_frequencies = get_n_first(count_frequencies(macroclass_syllables), 15
 
 
 with open("./output/Frequency_analysis.txt",'a') as output_file:
+    #header 
     output_file.write("Macroclass Syllables Top Frequencies\n")
+    output_file.write("| Pattern | Frequency | \n")
+    output_file.write("| -------- | ----- | \n")
+
+    #content
     for key, value in macroclass_frequencies.items():
-        output_file.write(" ".join(["|", str(key), "|", str(value), "\n"]) )
+        output_file.write(" ".join(["|", str(key), "|", str(value), "|", "\n"]) )
     output_file.write("\n")
 
 
@@ -144,9 +154,14 @@ with open("./output/Frequency_analysis.txt",'a') as output_file:
 sampa_top_frequencies = get_n_first(count_frequencies(sampa_syllables), 15)
 
 with open("./output/Frequency_analysis.txt",'a') as output_file:
+    #header
     output_file.write("Sampa Syllables Top Frequencies\n")
+    output_file.write("| Pattern | Frequency | \n")
+    output_file.write("| -------- | ----- | \n")
+
+    #content
     for key, value in sampa_top_frequencies.items():
-        output_file.write(" ".join(["|", str(key), "|", str(value), "\n"]) )
+        output_file.write(" ".join(["|", str(key), "|", str(value), "|", "\n"]) )
     output_file.write("\n")
 
 
