@@ -1,0 +1,72 @@
+Ortho
+a 5164 - vowel
+b 962 - consonant
+c 2354 - consonant
+d 1423 - consonant
+e 5487 - vowel
+f 810 - consonant
+g 1120 - consonant
+h 832 - consonant
+i 5583 - vowel
+j 120 - consonant
+k 44 - consonant
+l 2607 - consonant
+m 1783 - consonant
+n 4557 - consonant
+o 3678 - vowel
+p 1711 - consonant
+q 407 - consonant
+r 4794 - consonant
+s 2894 - consonant
+t 3458 - consonant
+u 2632 - vowel
+v 708 - consonant
+w 8 - consonant
+x 140 - consonant
+y 277 - vowel
+z 55 - consonant
+â 115 - vowel
+ç 44 - consonant
+è 228 - vowel
+é 2169 - vowel
+ê 55 - vowel
+î 44 - vowel
+ï 32 - vowel
+ô 19 - vowel
+û 17 - vowel
+
+Phonetique
+* 442 - vowel
+1 410 - vowel
+2 134 - vowel
+5 370 - vowel
+8 149 - semi-vowel
+9 225 - vowel
+@ 984 - vowel
+E 1277 - vowel
+G 1 - consonant - nasal
+N 85 - consonant - nasal
+O 2143 - vowel
+R 4116 - consonant - liquide
+S 340 - consonant - fricative
+Z 455 - consonant - fricative
+a 3394 - vowel
+b 908 - consonant - stop
+d 1319 - consonant - stop
+e 1891 - vowel
+f 791 - consonant - fricative
+g 559 - consonant - stop
+i 3103 - vowel
+j 1174 - semi-vowel
+k 1786 - consonant - stop
+l 1746 - consonant - liquide
+m 1276 - consonant - nasal
+n 1141 - consonant - nasal
+p 1493 - consonant - stop
+s 2340 - consonant - fricative
+t 2542 - consonant - stop
+u 505 - vowel
+v 663 - consonant - fricative
+w 248 - semi-vowel
+y 862 - vowel
+z 616 - consonant - fricative

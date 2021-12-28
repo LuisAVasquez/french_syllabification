@@ -1,0 +1,52 @@
+Consonant-Vowel Syllables Top Frequencies
+| CV | 10702 
+| CVC | 3344 
+| CCV | 2538 
+| V | 1665 
+| CCVC | 693 
+| VC | 416 
+| CVCC | 365 
+| CCCV | 59 
+| CCVCC | 33 
+| CCCVC | 23 
+| VCC | 20 
+| CVCCC | 8 
+| CCCVCC | 7 
+| VCCC | 1 
+| CCCCCV | 1 
+| CCCCV | 1 
+
+Macroclass Syllables Top Frequencies
+| PlosiveC + Vowel | 4144 
+| FricativeC + Vowel | 2481 
+| LiquidC + Vowel | 2126 
+| NasalC + Vowel | 1743 
+| Vowel | 1665 
+| PlosiveC + LiquidC + Vowel | 1299 
+| PlosiveC + Vowel + LiquidC | 730 
+| FricativeC + SemiVowel + Vowel | 479 
+| FricativeC + Vowel + LiquidC | 424 
+| PlosiveC + Vowel + FricativeC | 335 
+| PlosiveC + Vowel + PlosiveC | 284 
+| FricativeC + LiquidC + Vowel | 253 
+| PlosiveC + SemiVowel + Vowel | 242 
+| FricativeC + Vowel + PlosiveC | 220 
+| NasalC + Vowel + LiquidC | 212 
+
+Sampa Syllables Top Frequencies
+| a | 470 
+| de | 456 
+| e | 331 
+| te | 329 
+| ti | 276 
+| Ra | 272 
+| @ | 271 
+| Re | 267 
+| m@ | 254 
+| li | 235 
+| k1 | 222 
+| R* | 222 
+| 5 | 219 
+| se | 194 
+| si | 187 
+
